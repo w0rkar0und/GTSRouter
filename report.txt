@@ -1,0 +1,37 @@
+
+*********** OPTIMISED ROUTE ***********
+
+Origin-----------: N17 8JU
+
+Destination------: N17 8JU
+
+Date/Time of Run-: Sun Aug 19 21:43:37 2018
+
+|Stop: 1  |Add: London E18 9BP, UK                                                |Dist: 7.04  miles   |Time: 0:18:51 hh:mm:ss|
+|Stop: 2  |Add: Ilkley Ct, Garsdale Cl, London N11 3GB, UK                        |Dist: 9.82  miles   |Time: 0:22:02 hh:mm:ss|
+|Stop: 3  |Add: London NW9 5QH, UK                                                |Dist: 6.45  miles   |Time: 0:18:15 hh:mm:ss|
+|Stop: 4  |Add: Elm Cl, London NW4 2PH, UK                                        |Dist: 2.99  miles   |Time: 0:12:04 hh:mm:ss|
+|Stop: 5  |Add: Carlisle Ave, London W3 7NL, UK                                   |Dist: 8.11  miles   |Time: 0:20:48 hh:mm:ss|
+|Stop: 6  |Add: Larden Rd, White City, London W3 7SX, UK                          |Dist: 1.58  miles   |Time: 0:08:28 hh:mm:ss|
+|Stop: 7  |Add: London W3 3DR, UK                                                 |Dist: 1.58  miles   |Time: 0:07:44 hh:mm:ss|
+|Stop: 8  |Add: Bushey Rd, London SW20 0JE, UK                                    |Dist: 10.79 miles   |Time: 0:33:30 hh:mm:ss|
+|Stop: 9  |Add: Richmond Ave, London SW20 8LA, UK                                 |Dist: 0.97  miles   |Time: 0:04:03 hh:mm:ss|
+|Stop: 10 |Add: Kenley Rd, London SW19 3DS, UK                                    |Dist: 0.99  miles   |Time: 0:04:24 hh:mm:ss|
+|Stop: 11 |Add: Rogers Rd, London SW17 0EB, UK                                    |Dist: 3.14  miles   |Time: 0:13:40 hh:mm:ss|
+|Stop: 12 |Add: Battersea High St, London SW11 3JS, UK                            |Dist: 4.11  miles   |Time: 0:16:45 hh:mm:ss|
+|Stop: 13 |Add: Stormont Rd, London SW11 5EQ, UK                                  |Dist: 1.09  miles   |Time: 0:06:54 hh:mm:ss|
+|Stop: 14 |Add: Wandsworth Rd, London SW8 3JQ, UK                                 |Dist: 0.47  miles   |Time: 0:02:41 hh:mm:ss|
+|Stop: 15 |Add: London SW8, UK                                                    |Dist: 1.04  miles   |Time: 0:04:54 hh:mm:ss|
+|Stop: 16 |Add: Stockwell Rd, London SW9 9TF, UK                                  |Dist: 1.47  miles   |Time: 0:08:56 hh:mm:ss|
+|Stop: 17 |Add: Blackheath Rd, London SE10 8PE, UK                                |Dist: 4.8   miles   |Time: 0:26:28 hh:mm:ss|
+|Stop: 18 |Add: Craigton Rd, London SE9 1QD, UK                                   |Dist: 4.15  miles   |Time: 0:12:05 hh:mm:ss|
+|Stop: 19 |Add: London E3 4FA, UK                                                 |Dist: 7.05  miles   |Time: 0:19:49 hh:mm:ss|
+|Stop: 20 |Add: Westferry Rd, Isle of Dogs, London E14 3ED, UK                    |Dist: 2.21  miles   |Time: 0:11:10 hh:mm:ss|
+|Stop: 21 |Add: Nile St, Hoxton, London N1 7SR, UK                                |Dist: 4.83  miles   |Time: 0:23:38 hh:mm:ss|
+|Stop: 22 |Add: London N16 5AL, UK                                                |Dist: 4.08  miles   |Time: 0:19:11 hh:mm:ss|
+|Stop: 23 |Add: Creighton Rd, London N17 8JU, UK                                  |Dist: 3.34  miles   |Time: 0:14:03 hh:mm:ss|
+
+Total Time: 5:30:23 hh:mm:ss
+Total Distance: 92.1 miles
+***************************************
+Runtime: 0.9256088733673096 seconds ---
